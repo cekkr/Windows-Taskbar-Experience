@@ -3,6 +3,6 @@ This script enables the <b>Microsoft Windows 11</b> feature of displaying the la
 
 Execute PowerShell script, after clicked on .reg option that you prefer, for applying immediately without restarting the computer.
 
-**Created for you by [Riccardo Cecchini](https://github.com/cekkr)**
+**Created for you by [Riccardo Cecchini](https://github.com/cekkr)** - 2022
 
 
